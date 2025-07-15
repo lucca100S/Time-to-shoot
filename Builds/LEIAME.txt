@@ -1,0 +1,20 @@
+Instruções de instalação:
+
+- Descompacte TIME_TO_SHOOT.zip
+- Abra a pasta time_to_shoot
+- Execute o executável Time to shoot.exe
+
+Como jogar:
+
+Em Time to shoot, você é capaz de alterar a velocidade do jogo, podendo alternar entre as velocidades 0.5x, 1.0x, 1.5x. Além de modificar a velocidade de movimentação do jogador e de inimigos, elas também atuam como modificador de dano e pontuação.
+Além disso, a sua vida é representada por uma barra de energia que reduz gradativamente ou ao receber danos. É possível recarregar a sua energia de duas formas: coletando o consumível de energia ou derrotando inimigos para carregar uma barra de recarga de energia, que pode ser usada pressionando a tecla K
+
+Controles:
+
+Mover - WASD
+Atirar - J
+Curar - K
+Alterar velocidade:
+0.5x - U
+1.0x - I
+1.5x - O
